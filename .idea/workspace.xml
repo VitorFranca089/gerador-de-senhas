@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b3fed95-94b4-4831-a2b5-c21a5ce54007" name="Changes" comment="create project">
+    <list default="true" id="7b3fed95-94b4-4831-a2b5-c21a5ce54007" name="Changes" comment="feat: add password generation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -62,11 +62,20 @@
       <option name="project" value="LOCAL" />
       <updated>1735659394250</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: add password generation">
+      <option name="closed" value="true" />
+      <created>1735848993981</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735848993981</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create project" />
-    <option name="LAST_COMMIT_MESSAGE" value="create project" />
+    <MESSAGE value="feat: add password generation" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add password generation" />
   </component>
 </project>
